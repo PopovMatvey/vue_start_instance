@@ -1,0 +1,48 @@
+/* Для заголовков */
+@font-face {
+    font-family: 'BerlinTypeBold';
+    src: url('../fonts/BerlinType/BerlinType-Bold.otf');
+}
+
+/* Основной текст */
+@font-face {
+    font-family: 'BerlinType';
+    src: url('../fonts/BerlinType/BerlinType-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Concrete';
+    src: url('../fonts/Concrete/Concrete-Regular.otf');
+}
+
+/*  */
+@font-face{
+    font-family: 'fram';
+    src: url("../fonts/framd/framd.otf");
+}
+
+/* Motserat */
+@font-face{
+    font-family: "Motserat";
+    src:url('../fonts//Montserat/static/Montserrat-Regular.ttf');
+}
+
+@font-face{
+    font-family: "MotseratMedium";
+    src:url('../fonts//Montserat/static/Montserrat-Medium.ttf');
+}
+
+@font-face{
+    font-family: "MotseratSemiBold";
+    src: url('../fonts/Montserat/static/Montserrat-SemiBold.ttf');
+}
+
+@font-face{
+    font-family: "MotseratBold";
+    src:url('../fonts//Montserat/static/Montserrat-Bold.ttf');
+}
+
+@font-face{
+    font-family: "MotseratLight";
+    src:url('../fonts//Montserat/static/Montserrat-Light.ttf');
+}
